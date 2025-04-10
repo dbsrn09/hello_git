@@ -11,3 +11,5 @@ local 변경사항 추가연습
 local 변경사항 연습
 
 파일 상태 확인
+
+good morning
